@@ -1,9 +1,9 @@
-<h1 align="center">Hey 🦋, It's Jeem</h1>
+<h1 align="center">Hey, It's Joud</h1>
 <h3 align="center">A passionate front-end developer</h3>
 
 <p align="left"> <a href="https://twitter.com/jeemjamask" target="blank"><img src="https://img.shields.io/twitter/follow/jeemjamask?logo=twitter&style=for-the-badge" alt="jeemjamask" /></a> </p>
 
-- 📫 How to reach me **Jeem.Jamask@gmail.com**
+- 📫 How to reach me **Joud.kishi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
